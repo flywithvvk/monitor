@@ -19,8 +19,7 @@
     "axios": "^1.6.2",
     "rate-limiter-flexible": "^3.0.4",
     "nodemailer": "^8.0.5",
-    "@supabase/supabase-js": "^2.39.0",
-    "crypto": "^1.0.1"
+    "@supabase/supabase-js": "^2.39.0"
   },
   "engines": {
     "node": ">=18.0.0"
